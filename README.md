@@ -11,7 +11,7 @@ Display the shape and the complete list of column names of cars. Using positiona
 `pd.read_csv()` - Loads a CSV file to a Pandas DataFrame <br>
 `.shape` - Gets the number of rows and columns of a DataFrame <br>
 `.columns` - Gets the column names of a DataFrame <br>
-`.iloc[]` - Selects rows and columns using row and column index <br>
+`.iloc[]` - Selects based on row and column position <br>
 `.tolist()` - Converts the Pandas Index into a Python list
 
 
