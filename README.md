@@ -63,4 +63,5 @@ selected_cars
 
 # Edit/History Log
 
-Created: 9/10/2026 <br>Last edited: 9/10/2026 <br>
+Created: 9/10/2026 <br>Last edited: 9/10/2026 <br> Changes: 9/10/2026 <br>
+Added cars.csv
