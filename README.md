@@ -2,7 +2,7 @@
 
 ### **Made by: Evan James G. Paciencia|2ECE-C**
 
-This repository contains Programming Assignment 3 for the course "Advanced Computer Programming" of S.Y. 2026-2027. This assignment covers three problems of PYTHON DATA ANALYSIS (PANDAS) of about Module 3 - Pandas
+This repository contains Programming Assignment 3 for the course "Advanced Computer Programming" of S.Y. 2026-2027. This assignment covers three problems of PYTHON DATA ANALYSIS (PANDAS) of Module 3 - Pandas
 ## A. POSITIONAL AND LABEL-BASED SLICING
 
 Display the shape and the complete list of column names of cars. Using positional slicing, create cars 6-10 by selecting rows 6-10 of the dataset, where the first data row is row 1. From cars 6 to 10, display only the columns Model, mpg, cyl, hp, and gear, in that order. The row selection in part (b) must use iloc; the column selection in part (c) must use column labels.
